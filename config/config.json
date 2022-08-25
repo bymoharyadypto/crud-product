@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "komputer123",
+    "database": "crud-product-db",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
